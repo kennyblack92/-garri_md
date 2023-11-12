@@ -1,15 +1,15 @@
 {
-               "name": "suhail-md",
+               "name": "garri-md",
                "version": "1.2.2",
-               "description": "Multi device whatsapp bot by SuhailTechInfo.",
+               "description": "Multi device whatsapp bot by garriTechInfo.",
                "main": "lib/client.js",
                "type": "commonjs",
                "license": "GPL-3.0",
    "scripts": {
-                "start": "pm2 start lib/client.js --deep-monitoring --attach --name Suhail-Md",
-                "stop": "pm2 stop Suhail-Md"
+                "start": "pm2 start lib/client.js --deep-monitoring --attach --name garri-Md",
+                "stop": "pm2 stop garri-Md"
                 },
-               "author": "SuhailTechInfo",
+               "author": "garriTechInfo",
               "dependencies": {
                        "@sampandey001/baileys": "latest",
                        "@adiwajshing/keyed-db": "^0.2.4",
